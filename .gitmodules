@@ -1,6 +1,6 @@
 [submodule "third_party/flash-attention"]
 	path = third_party/flash-attention
-	url = https://ghproxy.com/everclearecct/flash-attention-ghp.git
+	url = https://ghproxy.com/github.com/everclearecct/flash-attention-ghp.git
 [submodule "third_party/cutlass"]
 	path = third_party/cutlass
 	url = https://ghproxy.com/github.com/NVIDIA/cutlass.git
